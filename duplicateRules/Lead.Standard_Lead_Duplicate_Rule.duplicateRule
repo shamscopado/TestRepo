@@ -40,12 +40,12 @@
                 <outputField>BillingPostalCode</outputField>
             </mappingFields>
             <mappingFields>
-                <inputField>Phone</inputField>
-                <outputField>Phone</outputField>
-            </mappingFields>
-            <mappingFields>
                 <inputField>Website</inputField>
                 <outputField>Website</outputField>
+            </mappingFields>
+            <mappingFields>
+                <inputField>Phone</inputField>
+                <outputField>Phone</outputField>
             </mappingFields>
             <outputObject>Account</outputObject>
         </objectMapping>
