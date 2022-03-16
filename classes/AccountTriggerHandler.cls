@@ -1,7 +1,7 @@
 public class AccountTriggerHandler {
     public static void createContact (List<Account> accounts) {
         List<Contact> contacts = new List<Contact>();
-        
+        // this is change from dev2 to create merge coflict
         for (Account acc : accounts) {
             if (acc.Name != null) {
                 Contact con = new Contact();
