@@ -5,5 +5,9 @@
         <members>AccountTriggerHandlerTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>AccountTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
     <version>54.0</version>
 </Package>
