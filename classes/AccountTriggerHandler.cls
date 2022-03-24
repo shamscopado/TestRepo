@@ -15,12 +15,6 @@ public class AccountTriggerHandler {
         }
 // Feature brnach to dev1 merge change2  
 // Feature brnach to dev1 merge change2  
-        try {
-            if (!contacts.isEmpty()) {
-                insert contacts;
-            }
-        } catch (Exception e) {
-            System.debug('Error: '+e.getMessage());
-        }
+        
     }   
 }
