@@ -12,7 +12,7 @@ public class AccountTriggerHandler {
                 contacts.add(con);
             }
         }
-        // this is one more change from dev2 to create merge conflict
+        
         try {
             if (!contacts.isEmpty()) {
                 insert contacts;
