@@ -5041,6 +5041,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.TestFieldFromDev2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.TickerSymbol</field>
         <readable>false</readable>
     </fieldPermissions>

@@ -29,6 +29,10 @@
                 <behavior>Edit</behavior>
                 <field>Description</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TestFieldFromDev2__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
