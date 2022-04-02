@@ -31,7 +31,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>TestFieldFromDev2__c</field>
+                <field>CompanyLevel__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
