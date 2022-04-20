@@ -1,8 +1,7 @@
 public class AccountTriggerHandler {
     public static void createContact (List<Account> accounts) {
         List<Contact> contacts = new List<Contact>();
-// Feature brnach to dev1 merge change2  
-// Feature brnach to dev1 merge change2       
+//Pull request test      
         for (Account acc : accounts) {
             if (acc.Name != null) {
                 Contact con = new Contact();
