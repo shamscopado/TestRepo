@@ -256,6 +256,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>CCDTestField__c</fullName>
+        <externalId>false</externalId>
+        <label>CCDTestField</label>
+        <length>30</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CompanyLevel__c</fullName>
         <description>This ti test the commit</description>
         <externalId>false</externalId>
