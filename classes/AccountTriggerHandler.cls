@@ -1,7 +1,8 @@
 public class AccountTriggerHandler {
     public static void createContact (List<Account> accounts) {
         List<Contact> contacts = new List<Contact>();
-//Pull request test      
+//Pull request test
+//Testing CCD Quality gates      
         for (Account acc : accounts) {
             if (acc.Name != null) {
                 Contact con = new Contact();
