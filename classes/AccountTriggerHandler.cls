@@ -18,6 +18,7 @@ try {
             }
         } catch (Exception e) {
             System.debug('Error: '+e.getMessage());
+            //Quality gates check
         }
     }   
 }
