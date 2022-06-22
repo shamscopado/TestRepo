@@ -3,6 +3,7 @@
     <defaultLandingTab>standard-Campaign</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-Campaign</tabs>
     <tabs>standard-Lead</tabs>
     <tabs>standard-Contact</tabs>
@@ -13,4 +14,5 @@
     <tabs>standard-File</tabs>
     <tabs>standard-Quote</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
 </CustomApplication>

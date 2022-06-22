@@ -11,10 +11,6 @@
         <objectMapping>
             <inputObject>Contact</inputObject>
             <mappingFields>
-                <inputField>FirstName</inputField>
-                <outputField>FirstName</outputField>
-            </mappingFields>
-            <mappingFields>
                 <inputField>LastName</inputField>
                 <outputField>LastName</outputField>
             </mappingFields>
@@ -33,6 +29,10 @@
             <mappingFields>
                 <inputField>MailingStreet</inputField>
                 <outputField>Street</outputField>
+            </mappingFields>
+            <mappingFields>
+                <inputField>FirstName</inputField>
+                <outputField>FirstName</outputField>
             </mappingFields>
             <mappingFields>
                 <inputField>MailingPostalCode</inputField>

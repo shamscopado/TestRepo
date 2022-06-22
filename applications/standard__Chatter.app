@@ -3,7 +3,9 @@
     <defaultLandingTab>standard-Chatter</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
 </CustomApplication>

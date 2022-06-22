@@ -9,6 +9,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Service Console</label>
     <navType>Console</navType>
     <setupExperience>service</setupExperience>
@@ -22,9 +23,13 @@
     <tabs>standard-home</tabs>
     <tabs>standard-LightningQuickText</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Book__c</tab>
+        </mappings>
         <mappings>
             <tab>Knowledge__kav</tab>
         </mappings>

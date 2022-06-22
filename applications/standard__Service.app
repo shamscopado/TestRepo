@@ -4,6 +4,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-Case</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-Account</tabs>
@@ -13,4 +14,5 @@
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
 </CustomApplication>

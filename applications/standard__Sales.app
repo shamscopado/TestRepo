@@ -3,6 +3,7 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-Contact</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Lead</tabs>
@@ -15,4 +16,5 @@
     <tabs>standard-Forecasting3</tabs>
     <tabs>standard-Quote</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
 </CustomApplication>

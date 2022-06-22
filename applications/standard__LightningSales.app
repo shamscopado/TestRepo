@@ -5,6 +5,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Sales</label>
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
@@ -28,5 +29,6 @@
     <tabs>standard-Quote</tabs>
     <tabs>standard-LightningQuickText</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

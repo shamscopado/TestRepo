@@ -3,6 +3,7 @@
     <defaultLandingTab>standard-Contact</defaultLandingTab>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <tabs>standard-Contact</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-report</tabs>
@@ -10,4 +11,5 @@
     <tabs>standard-Chatter</tabs>
     <tabs>standard-File</tabs>
     <tabs>MobileLanding</tabs>
+    <tabs>Book__c</tabs>
 </CustomApplication>

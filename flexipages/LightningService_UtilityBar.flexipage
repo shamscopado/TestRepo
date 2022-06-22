@@ -22,12 +22,6 @@
         </itemInstances>
         <itemInstances>
             <componentInstance>
-                <componentName>voice:callHandlerContainer</componentName>
-                <identifier>voice_callHandlerContainer</identifier>
-            </componentInstance>
-        </itemInstances>
-        <itemInstances>
-            <componentInstance>
                 <componentName>runtime_service_omnichannel:omniWidget</componentName>
                 <identifier>runtime_service_omnichannel_omniWidget</identifier>
             </componentInstance>
