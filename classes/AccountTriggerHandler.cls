@@ -1,4 +1,5 @@
 public class AccountTriggerHandler {
+//Change in Derv1
     public static void createContact (List<Account> accounts) {
         List<Contact> contacts = new List<Contact>();
 //Pull request test
@@ -18,6 +19,7 @@ public class AccountTriggerHandler {
             }
         } catch (Exception e) {
             System.debug('Error: '+e.getMessage());
+            //Quality gates check
         }
     }   
 }
