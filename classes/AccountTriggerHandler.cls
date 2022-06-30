@@ -11,6 +11,7 @@ public class AccountTriggerHandler {
                 con.Phone= Acc.Phone;
                 con.AccountId = acc.id;
                 contacts.add(con);
+                //Test in Dev2
             }
         }
         try {
