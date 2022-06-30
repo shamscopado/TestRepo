@@ -1,8 +1,6 @@
 public class AccountTriggerHandler {
     public static void createContact (List<Account> accounts) {
-        List<Contact> contacts = new List<Contact>();
-// Feature brnach to dev1 merge change2  
-// Feature brnach to dev1 merge change2       
+        List<Contact> contacts = new List<Contact>();      
         for (Account acc : accounts) {
             if (acc.Name != null) {
                 Contact con = new Contact();
@@ -10,6 +8,7 @@ public class AccountTriggerHandler {
                 con.Phone= Acc.Phone;
                 con.AccountId = acc.id;
                 contacts.add(con);
+                //Test in Dev2
             }
         }
         
